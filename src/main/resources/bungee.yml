@@ -1,0 +1,3 @@
+name: ProxyManager
+version: '${project.version}'
+main: fr.plhume.proxymanager.ProxyManager
